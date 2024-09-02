@@ -11,23 +11,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉 Limule Solitarus"
+global.ownernomer = "242069190822"
+global.ownername = "🐉 leo"
 global.ytname = "YT: Deaethgun635"
-global.socialm = "GitHub: Limule3650"
+global.socialm = "GitHub: leo"
 global.location = "India, Rampur, city"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉 Limule Solitarus' //owner name
+global.ownernumber = '242069190822'  //creator number
+global.ownername = '🐉 Leo' //owner name
 global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Limule Solitarus\n\nContact: +237698581946'
+global.author = 'leo\n\nContact: +242069190822'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Limule Solitarus Bot Inc."
+global.wm = "Leo Bot Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
